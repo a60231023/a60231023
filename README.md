@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ayushtiwari6061@gmail.com**
 
-- Checkout my portfolio website <a href="https://ayush6023.vercel.app/"> here </a>  
+- Checkout my portfolio website <a href="https://ayush6023.vercel.app/" target="blank"> here </a>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
